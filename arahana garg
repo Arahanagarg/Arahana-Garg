@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><head>
+<meta name="author" content="Arahana Garg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Number System">
+<meta charset="UTF-8">
+<link rel="icon" type="image/webp" href="aaaaaaaaa789.webp" >
+<title>Numbers</title>
+<style>body{background-color:rgb(255, 232, 0);font-family:Comic Sans MS}
+h1{color:green;text-shadow:3px 3px orange}ol{list-style-type:upper-roman}
+table{background-color:rgb(250,223,223)}
+</style></head><body>
+<h1> Main Types of Numbers</h1><h2>
+<ol><li>Natural Numbers</li><li>Whole Numbers</li><li>Integers</li></ol>
+<font color="blue"><table border="1" bordercolor="red" ><tr><th><u>Type of Number</u></th>
+<th>Examples</th></tr><tr><td> Natural Numbers</td>
+<td>All numbers starting from 1</td></tr><tr><td> Whole Numbers</td>
+<td>All numbers starting from 0</td></tr><tr><td>Integers</td>
+<td>All positive and negative numbers including 0</td></tr></table><br></font>
+<a href="link gci task 1.html">Click here-Importance of Numbers</a></h2><br>
+<img src="aaaaaa123.jpg" width="500" height="300" border="5px 5px">
+</body>
+</html>
